@@ -1,0 +1,14 @@
+Import Oculus Integration
+
+To keep the git repository small, this folder is ignored but you need to import/update it manually from:
+
+https://assetstore.unity.com/packages/3d/props/exterior/hq-rock-pack-free-83388
+
+https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
+
+https://assetstore.unity.com/packages/3d/vegetation/trees/dream-forest-tree-105297
+
+https://assetstore.unity.com/packages/3d/environments/urban/real-new-york-city-vol-2-222827
+
+
+Version  44.0 
